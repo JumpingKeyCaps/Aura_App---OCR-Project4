@@ -2,7 +2,7 @@
   <img src="aura.png" alt="Logo" width="200" height="200">
 </p>
 
-# AURA
+# Aura App
 
 Application Android bancaire de consultation de solde et virement entre utilisateurs.
 
